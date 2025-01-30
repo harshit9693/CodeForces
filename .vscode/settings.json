@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "*.cpp": "cpp",
+    "*.c": "c",
+    "*.js": "javascript",
+    "*.py": "python",
+    "*.json": "json",
+    "random": "cpp",
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
